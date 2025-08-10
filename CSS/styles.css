@@ -38,7 +38,7 @@ img {
 }
 
 h2 {  
-  font-family: "Roboto";
+  font-family: "Roboto" sans-serif;
   margin: 20px 10px 0 10px;
   font-size: 26px;
   color: hsl(0, 0%, 90%);
@@ -86,7 +86,7 @@ h2 {
     padding: 15px;
     max-width: 100%;
     box-sizing: border-box; /* padding is included in total width */
-    font-family: 'Roboto';
+    font-family: "Roboto" sans-serif;
 }
 
 .btn:hover {
